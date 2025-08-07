@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Global Tech Update",
+        "content": "Technology market is booming",
+        "author": "salman"
+    },
+    {
+        "id": 2,
+        "title": "Rain update",
+        "content": "Heavy rain in AP & TELANGANA.",
+        "author": "Manohar"
+    },
+    {
+        "id": 3,
+        "title": "PSPK Movie collection box office",
+        "content": "Movie go 10 crores money in 2nd day.",
+        "author": "sameer"
+    }
+]
