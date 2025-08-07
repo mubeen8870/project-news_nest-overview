@@ -1,2 +1,2 @@
-# project-news_nest-overview
-public repository for project newsnest overview
+# news_nest_article
+public repository for news nest article
